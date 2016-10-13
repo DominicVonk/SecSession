@@ -1,0 +1,12 @@
+{
+    "name": "dominicvonk/secsession",
+    "authors": [
+        {
+            "name": "Dominic Vonk",
+            "email": "dominic@dominicvonk.com"
+        }
+    ],
+    "type": "Session",
+    "license": "MIT",
+    "require": {}
+}
