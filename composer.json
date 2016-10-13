@@ -1,5 +1,6 @@
 {
     "name": "dominicvonk/secsession",
+    "description": "Secure Session",
     "authors": [
         {
             "name": "Dominic Vonk",
@@ -8,5 +9,10 @@
     ],
     "type": "Session",
     "license": "MIT",
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "SecSession": "src/"
+        }
+    }
 }
